@@ -1,1 +1,1 @@
-# Solux Project
+# Solux Github Desktop
