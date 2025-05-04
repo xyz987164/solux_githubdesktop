@@ -1,1 +1,1 @@
-# Solux Github Desktop
+# Solux Github Desktop 실습과제
